@@ -13,7 +13,7 @@ Yêu cầu báo cáo
 -- Hướng dẫn sử dụng chi tiết (có hình ảnh)
 -- Demo video
 -- Hình ảnh và video để trong thư mục media và link vào file markdown này
-<img src="media/test.png" alt="" class="img" style="width: 71px; height: 36px;">
+![](media/test.png =71x36)
 
 + Comment mã nguồn (để trong src):
 -- Có tài liệu cho mã nguồn là điểm cộng
