@@ -23,6 +23,8 @@ Yêu cầu báo cáo
 -- src
 -- docs
 -- media
+
+* Project 1 nộp báo cáo tại: https://github.com/bk-blockchain/report-submission
 ~~~~
 
 # Tên hệ thống
