@@ -12,7 +12,7 @@ Yêu cầu báo cáo
 -- Hướng dẫn cài đặt (có script cài là điểm cộng)
 -- Hướng dẫn sử dụng chi tiết (có hình ảnh)
 -- Demo video (dung lượng lớn hơn 20MB thì để đường dẫn)
--- Hình ảnh và video để trong thư mục media và link vào file markdown này, ví dụ: ![](media/test.png)
+-- Hình ảnh, video, và script để trong thư mục media và link vào file markdown này, ví dụ: ![](media/test.png)
 
 + Comment mã nguồn (để trong src):
 -- Có tài liệu cho mã nguồn là điểm cộng
