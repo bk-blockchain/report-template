@@ -24,7 +24,6 @@ Yêu cầu báo cáo
 -- docs
 -- media
 ~~~~
-![](media/test.png)
 
 # Tên hệ thống
 
