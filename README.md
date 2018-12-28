@@ -24,7 +24,7 @@ Yêu cầu báo cáo
 -- docs
 -- media
 
-* Project 1 nộp báo cáo tại 
+* Project 1 nộp báo cáo tại (hạn thứ 6, 11/01/2019) 
 -- https://github.com/bk-blockchain/report-submission
 -- Nếu nhóm đã có github team thì nộp tại repo của nhóm 
 ~~~~
